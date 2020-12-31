@@ -8,8 +8,8 @@ import { TokenService } from './token.service';
 @Injectable()
 export class AuthService {
   auth0 = new auth0.WebAuth({
-    clientID: '3Zv55BlAANYq7fLkNh1FGWMS5RA4sVEF',
-    domain: 'sams-project.eu.auth0.com',
+    clientID: 'NW3Au7RXxZw6S4auQdyY4phOScjQz4zm',
+    domain: 'dev-sm42i1nt.us.auth0.com',
     responseType: 'token id_token',
     audience: 'sams-dwh-web-api',
     redirectUri: environment.origin + '/login',
