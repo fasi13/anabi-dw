@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  origin: 'https://sams.science.itf.llu.lv'
+  origin: 'http://206.189.193.55'
 };
