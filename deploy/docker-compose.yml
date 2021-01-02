@@ -16,7 +16,7 @@ services:
     image: "registry.science.itf.llu.lv/bees-dwh-web-api"
     restart: always
     ports:
-      - "206.189.193.55:8088:8080"
+      - "127.0.0.1:8088:8080"
     depends_on:
       - "mongo"
       - "dwh-core"
