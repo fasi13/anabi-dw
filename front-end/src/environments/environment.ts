@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  origin: 'http://206.189.193.55'
+  origin: 'http://localhost:4200'
 };
 
 /*
