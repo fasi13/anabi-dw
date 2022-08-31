@@ -34,7 +34,7 @@
     "core-js": "^3.6.4",
     "mathjs": "^6.6.2",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "rxjs": "^6.5.5",
     "rxjs-compat": "^6.5.5",
     "tslib": "^1.10.0",
